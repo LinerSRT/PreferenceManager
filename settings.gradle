@@ -1,0 +1,3 @@
+include ':PreferenceManager'
+include ':app'
+rootProject.name = "PreferenceManagerDemo"
